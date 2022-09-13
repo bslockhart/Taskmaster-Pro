@@ -42,4 +42,3 @@ The following image shows the web application's appearance:
 ### Submission
 * The URL of the deployed application: https://github.com/bslockhart/portfolio-generator
 * The URL of the GitHub repository that contains your code: https://github.com/bslockhart/portfolio-generator
-
