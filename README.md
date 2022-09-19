@@ -37,7 +37,7 @@ https://github.com/bslockhart/portfolio-generator
 
 ## Mock Up
 The following image shows the web application's appearance:
-![Mock Up](/images/MockUp.png)
+![Mock Up](./images/MockUp.png)
 
 ### Submission
 * The URL of the deployed application: https://github.com/bslockhart/portfolio-generator
